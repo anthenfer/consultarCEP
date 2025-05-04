@@ -1,0 +1,18 @@
+# Bytecode e arquivos temporários
+*.class
+
+# Arquivos de log
+*.log
+
+# Configuração do IntelliJ IDEA
+.idea/
+*.iml
+
+# Configuração do VS Code
+.vscode/
+
+# Arquivos JSON gerados
+*.json
+
+# Outros
+out/

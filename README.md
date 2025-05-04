@@ -18,10 +18,10 @@ Este projeto em Java permite ao usuário digitar um número de CEP e obter as in
 
 📦 src/
 
-┣ 📜 Principal.java # Classe principal com entrada do usuário
-┣ 📜 Endereco.java # Classe record para armazenar os dados do endereço
-┣ 📜 ConsultaCEP.java # Classe responsável por consultar o CEP via API
-┗ 📜 GeradorDeArquivo.java # Classe para salvar os dados no formato JSON
+┣ 📜 Principal.java # Classe principal com entrada do usuário  
+┣ 📜 Endereco.java # Classe record para armazenar os dados do endereço  
+┣ 📜 ConsultaCEP.java # Classe responsável por consultar o CEP via API  
+┗ 📜 GeradorDeArquivo.java # Classe para salvar os dados no formato JSON  
 
 ## ▶️ Como Executar
 
